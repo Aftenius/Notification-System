@@ -95,4 +95,6 @@
 Для запуска скрипта выполните его с помощью Python:
 
 ```bash
+py -m venv venv
+source venv/Script/activate
 python main.py
